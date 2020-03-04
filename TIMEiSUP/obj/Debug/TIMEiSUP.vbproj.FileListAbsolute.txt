@@ -1,0 +1,11 @@
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\bin\Debug\TIMEiSUP.exe.config
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\bin\Debug\TIMEiSUP.exe
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\bin\Debug\TIMEiSUP.pdb
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\bin\Debug\TIMEiSUP.xml
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.vbprojAssemblyReference.cache
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.Resources.resources
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.vbproj.GenerateResource.cache
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.exe
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.xml
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.pdb
+C:\Users\Takumi\source\repos\TIMEiSUP\TIMEiSUP\obj\Debug\TIMEiSUP.Form1.resources
